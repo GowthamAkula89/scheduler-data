@@ -3,7 +3,19 @@
         {
             "title":"meeting",
             "description": "project details",
-            "subject":"presentation"
+            "subject":"presentation",
+            "frequency": "Daily",
+            "repeat": "",
+            "selectedTime": "09:00"
+        },
+        {
+            "title": "meeting",
+            "description": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vitae tincidunt est, dictum convallis purus. Fusce eu est a lacus luctus sodales id vitae diam. Ut interdum tristique ....",
+            "frequency": "Daily",
+            "repeat": "",
+            "selectedTime": "08:00",
+            "subject": "React"
+            
         }
     ]
 }
